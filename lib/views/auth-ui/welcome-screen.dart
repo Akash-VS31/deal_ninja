@@ -29,7 +29,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                   ),
                   Container(
                     alignment: Alignment.center,
-                    child: SvgPicture.asset('asset/images/welcome image.svg'),
+                    child: SvgPicture.asset('assets/images/welcome image.svg'),
                   ),
                   SizedBox(
                     height: 47.h,
